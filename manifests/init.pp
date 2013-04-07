@@ -1,4 +1,7 @@
-# This is a placeholder class.
-class template {
-  anchor { 'Hello_World': }
+# This module installs oh-my-zsh
+class ohmyzsh {
+  repository {'robbyrussell_oh-my-zsh':
+    source => 'robbyrussell/oh-my-zsh',
+    path   => "/Users/${::luser}/.oh-my-zsh",
+  }
 }
