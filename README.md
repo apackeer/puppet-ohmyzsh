@@ -1,4 +1,4 @@
-# spf13vim3 Puppet Module for Boxen
+# oh-my-zsh Puppet Module for Boxen
 
 Installs [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) via Boxen
 
