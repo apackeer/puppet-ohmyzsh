@@ -2,7 +2,7 @@
 
 Installs [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) via Boxen
 
-Build Status: "!https://travis-ci.org/samjsharpe/puppet-ohmyzsh.png!":https://travis-ci.org/samjsharpe/puppet-ohmyzsh
+Build Status: !https://travis-ci.org/samjsharpe/puppet-ohmyzsh.png!":https://travis-ci.org/samjsharpe/puppet-ohmyzsh
 
 Requires the following boxen modules:
 
